@@ -15,8 +15,7 @@ src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3
 作者：**@About you** (此人很懒，没有在GitHub上注册账号)       
 立创EDA： https://oshwhub.com/oldmonster/OOCP
 
-<img style="width: 1200px; height: 834px;" src= "https://image.lceda.cn/pullimage/KWliW1KDpyT4wkG8Uc9o1UqOLkIND0Xa30iCLiIs.jpeg">
-
+![OOCP](/images/OOCP.jpeg)
 作品：
 ```
 PCIe Bifurcation X16 TO 4*M2 2280
