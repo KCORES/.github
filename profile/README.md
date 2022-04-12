@@ -9,6 +9,8 @@ src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3
 一个关注消费电子, 万兆网络, 家用NAS, 垃圾佬, Homelab, Vintage 等有趣电子产品的爱好者群体
 ```
 
+>更多信息请访问: [**All About KCORES**](https://github.com/KCORES/all-about-kcores)
+
 <!-- <iframe  src="https://kcores.com/reading" height="200" width="500">  </ifrmae> -->
 
 ## OldMonster Open Computer Project
