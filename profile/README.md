@@ -27,7 +27,7 @@ KCORES-ANTITANK-CEMFLR2NGFF-EVM
 ANTITANK-CEMFLR2NGFF-2280DLC
 DL380G5_PSU_TO_ATX_EVM
 ```
->部分可能在 <font color=#EE82EE>Bilibili至尊垃圾佬群</font> 群文件中，最终解释权归 **@About you** 所有。
+>部分可能在 `Bilibili至尊垃圾佬群` 群文件中，最终解释权归 **@About you** 所有。
 
 -------------------------------------------------------
 ## 欢迎加入 Electronic Scavenger Q 群:
