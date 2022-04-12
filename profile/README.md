@@ -1,6 +1,9 @@
-# KCORES-氪金核心
+## KCORES-氪金核心
 
-![kcoers-logo](/images/kcores-logo.svg)
+<!-- ![kcoers-logo](/images/kcores-logo.svg) -->
+
+<img style="width: 50000px; height: 225px;" 
+src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3d208d89fef596f10ad8/assets/images/kcores-logo.svg">
 
 ```
 一个关注消费电子, 万兆网络, 家用NAS, 垃圾佬, Homelab, Vintage 等有趣电子产品的爱好者群体
