@@ -8,6 +8,9 @@ src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3
 ```
 一个关注消费电子, 万兆网络, 家用NAS, 垃圾佬, Homelab, Vintage 等有趣电子产品的爱好者群体
 ```
+
+<iframe  src="https://kcores.com/reading" height="200" width="500">  </ifrmae>
+
 欢迎加入 Electronic Scavenger Q 群:
 
 远古群: 554935739
