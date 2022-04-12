@@ -2,7 +2,7 @@
 
 <!-- ![kcoers-logo](/images/kcores-logo.svg) -->
 
-<img style="width: 50000px; height: 450px;" 
+<img style="width: 50000px; height: 350px;" 
 src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3d208d89fef596f10ad8/assets/images/kcores-logo.svg">
 
 ```
