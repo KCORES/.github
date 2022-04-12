@@ -12,10 +12,10 @@ src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3
 <!-- <iframe  src="https://kcores.com/reading" height="200" width="500">  </ifrmae> -->
 
 ## OldMonster Open Computer Project
-作者：@About you (此人很懒，没有在GitHub上注册账号)
-https://oshwhub.com/oldmonster/OOCP
+作者：**@About you** (此人很懒，没有在GitHub上注册账号)       
+立创EDA： https://oshwhub.com/oldmonster/OOCP
 
-<img style="width: 700px; height: 400px;" src= "https://image.lceda.cn/pullimage/KWliW1KDpyT4wkG8Uc9o1UqOLkIND0Xa30iCLiIs.jpeg">
+<img style="width: 50000px; height: 425px;" src= "https://image.lceda.cn/pullimage/KWliW1KDpyT4wkG8Uc9o1UqOLkIND0Xa30iCLiIs.jpeg">
 
 作品：
 ```
@@ -29,7 +29,8 @@ ANTITANK-CEMFLR2NGFF-2280DLC
 DL380G5_PSU_TO_ATX_EVM
 ```
 
-欢迎加入 Electronic Scavenger Q 群:
+-------------------------------------------------------
+## 欢迎加入 Electronic Scavenger Q 群:
 
 远古群: 554935739
 
