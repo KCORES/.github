@@ -11,6 +11,24 @@ src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3
 
 <!-- <iframe  src="https://kcores.com/reading" height="200" width="500">  </ifrmae> -->
 
+## OldMonster Open Computer Project
+作者：@About you (此人很懒，没有在GitHub上注册账号)
+https://oshwhub.com/oldmonster/OOCP
+
+<img style="width: 700px; height: 400px;" src= "https://image.lceda.cn/pullimage/KWliW1KDpyT4wkG8Uc9o1UqOLkIND0Xa30iCLiIs.jpeg">
+
+作品：
+```
+PCIe Bifurcation X16 TO 4*M2 2280
+PCIE_TO_DELL_QUANTA_SAS_CARD
+HYPER M.2 X16 CARD PRO PLUS MAX ULTRA
+PCIe X16 Bifurcation TO OCP Mez 2.0 M.2 CARD
+KCORES-CEM2SLIMSAS-EVM_1.0
+KCORES-ANTITANK-CEMFLR2NGFF-EVM
+ANTITANK-CEMFLR2NGFF-2280DLC
+DL380G5_PSU_TO_ATX_EVM
+```
+
 欢迎加入 Electronic Scavenger Q 群:
 
 远古群: 554935739
