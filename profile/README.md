@@ -2,11 +2,11 @@
 
 <!-- ![kcoers-logo](/images/kcores-logo.svg) -->
 
-<img style="width: 50000px; height: 350px;" 
-src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3d208d89fef596f10ad8/assets/images/kcores-logo.svg">
+[<img style="width: 50000px; height: 325px;" 
+src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3d208d89fef596f10ad8/assets/images/kcores-logo.svg">](https://kcores.com/)
 
 ```
-一个关注消费电子, 万兆网络, 家用NAS, 垃圾佬, Homelab, Vintage 等有趣电子产品的爱好者群体
+KCORES 开源硬件项目的目标是聚集开源硬件爱好者, 帮助使用 KCORES 许可证的开源项目进行孵化和宣传, 建立一个大家都喜爱的开源硬件组织.
 ```
 
 >更多信息请访问: [**All About KCORES**](https://github.com/KCORES/all-about-kcores)
@@ -28,6 +28,7 @@ KCORES-CEM2SLIMSAS-EVM_1.0
 KCORES-ANTITANK-CEMFLR2NGFF-EVM
 ANTITANK-CEMFLR2NGFF-2280DLC
 DL380G5_PSU_TO_ATX_EVM
+KCORES_LP097QXDPTOUCH_EVM_V1
 ```
 >部分可能在 `Bilibili至尊垃圾佬群` 群文件中，最终解释权归 **@About you** 所有。
 
