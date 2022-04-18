@@ -39,21 +39,25 @@ KCORES_LP097QXDPTOUCH_EVM_V1
 >部分可能在 `Bilibili至尊垃圾佬群` 群文件中，最终解释权归 **@About you** 所有。
 
 ### KCORES-CSPS-to-ATX-Converter
-作者：[**@awpak78**](https://github.com/alphaarea)
+作者：[**@awpak78**](https://github.com/alphaarea)      
+Github: https://github.com/KCORES/KCORES-CSPS-to-ATX-Converter
 
 [![CSPS-to-ATX-Converter](/images/CSPS.png)](
 https://github.com/KCORES/KCORES-CSPS-to-ATX-Converter)
-
 YouTube: https://www.youtube.com/watch?v=Dy0Jgn7Dg4A        
 Bilibili: https://www.bilibili.com/video/BV12A411N7AG
 
 ### OCP2PCIe
-作者：[**@awpak78**](https://github.com/alphaarea)
+作者：[**@awpak78**](https://github.com/alphaarea)      
+Github: https://github.com/KCORES/OCP2PCIe
+
 [![OCP2PCIe](/images/ocp.png)](https://github.com/KCORES/OCP2PCIe)
 Bilibili: https://www.bilibili.com/video/BV1a7411Z7oD
 
 ### KCORES-FlexibleLOM-Adapter
-作者：[**@Wangrb**](https://github.com/Wangrb)
+作者：[**@Wangrb**](https://github.com/Wangrb)      
+Github: https://github.com/KCORES/KCORES-FlexibleLOM-Adapter
+
 [![KCORES-FlexibleLOM-Adapter](/images/flr.png)](https://github.com/KCORES/KCORES-FlexibleLOM-Adapter)
 
 -------------------------------------------------------
