@@ -13,11 +13,17 @@ KCORES 开源硬件项目的目标是聚集开源硬件爱好者, 帮助使用 K
 
 <!-- <iframe  src="https://kcores.com/reading" height="200" width="500">  </ifrmae> -->
 
-## OldMonster Open Computer Project
+-----
+## KCORES 作品一览
+
+<font color=red>**可以点击图片进入详细页面**</font>
+
+### OldMonster Open Computer Project
 作者：**@About you** (此人很懒，没有在GitHub上注册账号)       
 立创EDA： https://oshwhub.com/oldmonster/OOCP
 
-![OOCP](/images/OOCP.jpeg)
+[![OOCP](/images/OOCP.jpeg)](https://oshwhub.com/oldmonster/OOCP)
+
 作品：
 ```
 PCIe Bifurcation X16 TO 4*M2 2280
@@ -31,6 +37,24 @@ DL380G5_PSU_TO_ATX_EVM
 KCORES_LP097QXDPTOUCH_EVM_V1
 ```
 >部分可能在 `Bilibili至尊垃圾佬群` 群文件中，最终解释权归 **@About you** 所有。
+
+### KCORES-CSPS-to-ATX-Converter
+作者：[**@awpak78**](https://github.com/alphaarea)
+
+[![CSPS-to-ATX-Converter](/images/CSPS.png)](
+https://github.com/KCORES/KCORES-CSPS-to-ATX-Converter)
+
+YouTube: https://www.youtube.com/watch?v=Dy0Jgn7Dg4A        
+Bilibili: https://www.bilibili.com/video/BV12A411N7AG
+
+### OCP2PCIe
+作者：[**@awpak78**](https://github.com/alphaarea)
+[![OCP2PCIe](/images/ocp.png)](https://github.com/KCORES/OCP2PCIe)
+Bilibili: https://www.bilibili.com/video/BV1a7411Z7oD
+
+### KCORES-FlexibleLOM-Adapter
+作者：[**@Wangrb**](https://github.com/Wangrb)
+[![KCORES-FlexibleLOM-Adapter](/images/flr.png)](https://github.com/KCORES/KCORES-FlexibleLOM-Adapter)
 
 -------------------------------------------------------
 ## 欢迎加入 Electronic Scavenger Q 群:
