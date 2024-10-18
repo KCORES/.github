@@ -9,14 +9,27 @@ src= "https://raw.githubusercontent.com/KCORES/kcores-logo/faaaac37b7b171f0902c3
 KCORES 开源硬件项目的目标是聚集开源硬件爱好者, 帮助使用 KCORES 许可证的开源项目进行孵化和宣传, 建立一个大家都喜爱的开源硬件组织.
 ```
 
->更多信息请访问: [**All About KCORES**](https://github.com/KCORES/all-about-kcores)
+- 🌐 更多信息请访问我们的网站: [**KCORES.COM**](https://kcores.com)  
+- 💬 欢迎访问论坛阅读更多有趣内容 [**CYBERBUS.NET**](https://cyberbus.net)  
 
 <!-- <iframe  src="https://kcores.com/reading" height="200" width="500">  </ifrmae> -->
 
 -----
-## KCORES 作品一览
+## KCORES 开源软件
 
-<font color=red>**可以点击图片进入详细页面**</font>
+### Core-to-Core Latency +
+作者：[**@karminski-牙医**](https://github.com/karminski)      
+Github: [https://github.com/KCORES/core-to-core-latency-plus](https://github.com/KCORES/core-to-core-latency-plus)
+
+该程序用来计算 CPU 核心间通信延迟.  
+
+具体方式为, 将两个线程固定在两个不同的 CPU 核心上, 通过CPU缓存一致性协议, 让线程执行一系列比较交换操作来测量延迟.  
+
+[![Core-to-Core-Latency-Plus](/images/Loongson-3C5000-2.2GHz-16Cores.png)](https://github.com/KCORES/core-to-core-latency-plus)
+
+
+-----
+## KCORES 开源硬件
 
 ### OldMonster Open Computer Project
 作者：**@About you** (此人很懒，没有在GitHub上注册账号)       
