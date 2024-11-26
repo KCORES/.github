@@ -23,7 +23,7 @@ Github: [https://github.com/KCORES/fan-lord](https://github.com/KCORES/fan-lord)
 
 一个用于控制 Supermicro X-Series 主板风扇的 Windows 图形化工具，支持预设风扇转速调节和手动调节模式，妈妈再也不用担心我 Windows 下找不到 ipmitools 啦！
 
-[![Core-to-Core-Latency-Plus](/images/Loongson-3C5000-2.2GHz-16Cores.png)](https://github.com/KCORES/fan-lord)
+[![Fan-Lord](/images/fan-lord-screenshot.png)](https://github.com/KCORES/core-to-core-latency-plus)
 
 ### Core-to-Core Latency +
 作者：[**@karminski-牙医**](https://github.com/karminski)      
@@ -33,8 +33,7 @@ Github: [https://github.com/KCORES/core-to-core-latency-plus](https://github.com
 
 具体方式为, 将两个线程固定在两个不同的 CPU 核心上, 通过CPU缓存一致性协议, 让线程执行一系列比较交换操作来测量延迟.  
 
-[![Fan-Lord](/images/fan-lord-screenshot.png)](https://github.com/KCORES/core-to-core-latency-plus)
-
+[![Core-to-Core-Latency-Plus](/images/Loongson-3C5000-2.2GHz-16Cores.png)](https://github.com/KCORES/fan-lord)
 
 -----
 ## KCORES 开源硬件
